@@ -8,19 +8,19 @@ export default [
      */
     {
         title: "temp1",
-        imgUrl: "public/vite.svg",
-        stack: ["python","django", "asass"],
+        imgUrl: "/assets/vite.svg",
+        stack: ["python","django"],
         link: "",
     },
     {
         title: "temp2",
-        imgUrl: "public/assets/react.svg",
+        imgUrl: "/assets/react.svg",
         stack: [],
         link: "",
     },    
     {
         title: "temp3",
-        imgUrl: "",
+        imgUrl: "/assets/cookie.jpg",
         stack: [],
         link: "",
     },
